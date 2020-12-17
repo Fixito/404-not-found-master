@@ -32,14 +32,11 @@
 
 ![screenshot](src/404-not-found-bg.PNG)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+
+The challenge is to replicate a 404 not found page following a given design. The page should be responsive.
+
+I used plain CSS to practice my skill. You can see my demo [here](ttps://404-not-found-master.netlify.app/).
 
 ## Acknowledgements
 
