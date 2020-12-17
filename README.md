@@ -32,9 +32,7 @@
 
 ![screenshot](src/404-not-found-bg.PNG)
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
-
-The challenge is to replicate a 404 not found page following a given design. The page should be responsive.
+This page was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was is to replicate a 404 not found page following a given design. The page should be responsive.
 
 I used plain CSS to practice my skill. You can see my demo [here](ttps://404-not-found-master.netlify.app/).
 
