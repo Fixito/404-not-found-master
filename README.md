@@ -46,4 +46,4 @@ I used plain CSS to practice my skill. You can see my demo [here](ttps://404-not
 
 ## Contact
 
-- GitHub [@Fixito](https://{github.com/Fixito})
+- GitHub [@Fixito](https://github.com/Fixito)
